@@ -1,5 +1,15 @@
 
+INSTALLATION:
+- folders ws-product-node and ws-product-react are both root directories for backend and front end respectively
+- simply npm install within the root directories
 
+ws-product-node
+- npm install
+- npm run dev
+
+ws-product-react
+- npm install
+- npm start
 
 
 Backend Code for ws-products
