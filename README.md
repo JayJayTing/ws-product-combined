@@ -5,8 +5,12 @@
 Backend Code for ws-products
 - Additional queries were added.
 - query limit is customizable and is determined by user ip address
+- cors feature added
 
 Frontend code for ws-products
+
+- implemented with react-redux and redux thunk for async api queries
+
 1) Daily Events Bar Chart Sorted by Custom Dates
   - 3 buttons to select from will change data on chart
   
