@@ -1,0 +1,11 @@
+/* .layout {
+  border: solid red 2px;
+  display: flex;
+  flex-direction: row;
+} */
+
+.buttonPosition {
+  display: flex;
+
+  justify-content: space-evenly;
+}

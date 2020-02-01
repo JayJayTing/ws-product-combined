@@ -1,0 +1,9 @@
+.table-query-settings {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.switch {
+	display: flex;
+	flex-direction: row;
+}
